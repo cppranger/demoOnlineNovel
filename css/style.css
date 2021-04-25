@@ -38,3 +38,9 @@ html {
   bottom: 0;
   width: 100%;
 }
+
+.canv {
+  z-index: 100 !important;
+  width: 100vw;
+  height: 100vh;
+}
